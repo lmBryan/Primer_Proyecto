@@ -1,5 +1,13 @@
 # **Git Cheat-Sheet**
 
+<br>
+
+<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="200" height="auto" >
+
+<br>
+<br>
+<br>
+
 ## <center>**Indice**
 
 1. ¿Que es Git?
@@ -16,6 +24,8 @@
 Git es el sistema de control de versiones distribuido gratuito y de código abierto que es responsable de todo GitHub
 relacionado que ocurre localmente en su computadora. Esta hoja de trucos presenta los más importantes y comúnmente
 usó comandos de Git para una fácil referencia.
+
+[Codigos Basicos](https://education.github.com/git-cheat-sheet-education.pdf)
 
 <br>
 
@@ -85,6 +95,7 @@ Fusiona una sucursal remota en su sucursal actual para actualizarla
 git push [alias] [branch]
 Transmitir cambios de la rama local a la rama del repositorio remoto
 ~~~
+
 
 <br>
 
